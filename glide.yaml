@@ -1,0 +1,5 @@
+package: github.com/honpery/gin-mgo-starter
+import:
+- package: gopkg.in/mgo.v2
+- package: github.com/gin-gonic/gin
+  version: ^1.2.0
